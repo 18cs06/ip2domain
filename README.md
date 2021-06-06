@@ -1,5 +1,5 @@
 # ip2domain
-用于批量反查的小工具，使用python3编写
+用于ip反查的小工具，支持多个ip查询，使用python3编写
 
 # 使用方式
 ## 1、安装requirements，需要pip工具
