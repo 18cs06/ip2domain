@@ -13,6 +13,9 @@ python3 main.py -f 文件名
 ```
 例：python main.py -f ip.txt
 
-## 3、在查询结果.txt中查看
+## 3、结果输出在cmd中，也可以在查询结果.txt文件中查看
 
+## 写在结束的有些话
+```
 一个小脚本，由kevu,Constantine联合出品
+```
